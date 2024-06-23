@@ -64,6 +64,7 @@ a:active {
   font-family: "Manrope", sans-serif;
   font-size: 20px;
   margin: 10px;
+  font-weight: 700;
   text-align: left;
 }
 
@@ -117,4 +118,14 @@ a:active {
   .watermark {
       width: 40px;
   }
+}
+.button1 {
+  display: inline-flex;
+  margin: 10px;
+  padding: 11px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 1px;
+  background: #ffffff;
 }
